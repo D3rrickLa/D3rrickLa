@@ -29,10 +29,11 @@
 
 <p align="left">Hey there 👋 I'm Derrick<br><br>🎯 I'm an aspiring software engineer based in Canada, passionate about solving real-world problems and transforming ideas into intuitive, accessible user interfaces.<br><br>💻 I thrive at the intersection of functionality and user experience, constantly learning and building projects that make technology approachable for everyone.<br><br>🚀 When I’m not coding, I’m exploring new frameworks, tinkering with UI design, and staying on the pulse of all things tech.<br><br></p>
 <p>
-  <li>
-    <lu>I am learning the piano and music production</lu>
-    <lu>I have a fear of eating fish</lu>
-  </li>
+  Fun Facts:
+  <ul>
+    <li>I am learning the piano and music production</li>
+    <li>I have a fear of eating fish</li>
+  </ul>
 </p>
 ###
 
