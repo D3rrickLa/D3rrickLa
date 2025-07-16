@@ -19,29 +19,23 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> There </h1>
+
+<p align="center">My name is Derrick and I am an inspiring software developer from Canada 🍁</p>
 
 ###
 
+<br><br>
+<hr>
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">Hey there 👋 I'm Derrick<br><br>
+<p align="left">
   <ul>
     <li>🎯 I'm an aspiring software engineer based in Canada, passionate about solving real-world problems and transforming ideas into intuitive, accessible user interfaces.</li>
     <li>💻 I thrive at the intersection of functionality and user experience, constantly learning and building projects that make technology approachable for everyone.</li>
     <li>🚀 When I’m not coding, I’m exploring new frameworks, tinkering with UI design, and staying on the pulse of all things tech.</li>
-      
-  
-<p>
-  Fun Facts:
-  <ul>
-    <li>I am learning the piano and music production</li>
-    <li>I have a fear of eating fish</li>
   </ul>
-</p>
-
+  
 <br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
